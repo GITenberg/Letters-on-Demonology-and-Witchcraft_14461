@@ -1,0 +1,42 @@
+_repo: Letters-on-Demonology-and-Witchcraft_14461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_bookshelf: Witchcraft
+gutenberg_issued: '2004-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14461'
+  lccn: '41030605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft'
+- !lcc 'BF'
+- !lcsh 'Demonology'
+title: Letters on Demonology and Witchcraft
+url: http://www.gutenberg.org/ebooks/14461
